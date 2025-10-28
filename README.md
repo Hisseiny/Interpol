@@ -1,6 +1,6 @@
 # Interpol
 
-# Projet : Scraper Optimisé des Notices Rouges d'Interpol
+# Projet : Scraper des Notices Rouges d'Interpol
 
 Ce script Python (`main.py`) est conçu pour collecter, traiter et exporter l'intégralité des notices rouges publiques d'Interpol.
 
